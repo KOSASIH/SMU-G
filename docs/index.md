@@ -1,4 +1,5 @@
 ## Welcome to SMU-G Pages
+
 Global Virtual Museum
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/SMU-G/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -13,7 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
