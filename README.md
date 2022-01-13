@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![Documentation Status](https://readthedocs.org/projects/smu-g/badge/?version=latest)](https://smu-g.readthedocs.io/en/latest/?badge=latest)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/SMU-G.svg/?label=active+issues&show_trend=true&token=SRNO4kMvxexjxF2qAVDB43WV)](https://deepsource.io/gh/KOSASIH/SMU-G/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/SMU-G/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/SMU-G/tree/main)
