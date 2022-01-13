@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to SMU-G Pages
+Global Virtual Museum
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/SMU-G/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
