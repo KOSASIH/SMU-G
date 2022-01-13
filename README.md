@@ -1,3 +1,7 @@
+[![Documentation Status](https://readthedocs.org/projects/smu-g/badge/?version=latest)](https://smu-g.readthedocs.io/en/latest/?badge=latest)
+
+
+
 # SMU-G
 Global virtual museum
 SMU-G was created as a development project for the use of Artificial Intelligence in collaboration with IBM Company using Watson technology.
