@@ -2,6 +2,10 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/SMU-G.svg/?label=active+issues&show_trend=true&token=SRNO4kMvxexjxF2qAVDB43WV)](https://deepsource.io/gh/KOSASIH/SMU-G/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/SMU-G/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/SMU-G/tree/main)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a7cb7c7-ad1a-4fe2-9ace-51ac894ba963/deploy-status)](https://app.netlify.com/sites/smu-g/deploys)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/network)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/blob/main/LICENSE)
 
 
 # SMU-G
