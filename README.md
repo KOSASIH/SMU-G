@@ -7,6 +7,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/SMU-G)](https://github.com/KOSASIH/SMU-G/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FSMU-G)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5528/badge)](https://bestpractices.coreinfrastructure.org/projects/5528)
+
+
 
 # SMU-G
 Global virtual museum
