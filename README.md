@@ -1,6 +1,8 @@
 [![Documentation Status](https://readthedocs.org/projects/smu-g/badge/?version=latest)](https://smu-g.readthedocs.io/en/latest/?badge=latest)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/SMU-G.svg/?label=active+issues&show_trend=true&token=SRNO4kMvxexjxF2qAVDB43WV)](https://deepsource.io/gh/KOSASIH/SMU-G/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/SMU-G/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/SMU-G/tree/main)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a7cb7c7-ad1a-4fe2-9ace-51ac894ba963/deploy-status)](https://app.netlify.com/sites/smu-g/deploys)
+
 
 # SMU-G
 Global virtual museum
