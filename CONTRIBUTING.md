@@ -1,0 +1,1 @@
+SMU-G is open to anyone who is interested in collaborating in creating and developing technology, be it artificial intelligence or machine learning that is useful for people around the world, so that we can together create a better life for people, today and in the future.
