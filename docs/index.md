@@ -13,6 +13,8 @@ Global Virtual Museum
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FSMU-G)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5528/badge)](https://bestpractices.coreinfrastructure.org/projects/5528)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
 You can use the [editor on GitHub](https://github.com/KOSASIH/SMU-G/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
